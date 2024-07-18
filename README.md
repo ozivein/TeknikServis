@@ -1,4 +1,4 @@
-![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image1.png)
+
 ![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image2.png)
 ![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image3.png)
 ![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image4.png)
@@ -23,4 +23,4 @@
 ![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image23.png)
 ![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image24.png)
 ![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image25.png)
-
+![](vertopal_05048edc9b944ee2b645f8396deecd7d/media/image1.png)
